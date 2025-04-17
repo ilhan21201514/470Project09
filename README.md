@@ -1,5 +1,5 @@
 # 470Project09
-Sprint 1:
+
 # Smart Dining Event Planner:
 # Features:
 
